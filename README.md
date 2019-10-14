@@ -14,17 +14,48 @@ The Community Health Toolkit provides you with resources to design, build, deplo
   
 The resources provided through the Community Health Toolkit can be used to build digital health apps used at the community, health facility, and health system level:
 
-**At the community level,** community health workers (CHWs) use apps built with the CHT to register patients, conduct guided health assessments, screen for and track specific conditions, report danger signs, and refer patients to health facilities.
+**At the community level,** community health workers (CHWs) use apps built with the CHT to register patients, conduct guided health assessments, screen for specific conditions and danger signs, and refer patients to health facilities.
+
+![A Community Health App Built with the CHT](images/appdemo-addperson.gif)
 
 **At the health facility level,** nurses and CHW supervisors use apps and admin consoles built with the CHT to coordinate care for patients with the CHWs, promote health practices in the community, and report health and service delivery statistics to health system officials
 
-**At the health system level,** data managers and others use apps and admin consoles built with the CHT to collate and report on key community and health system data. Their work often involves following up with supervisors and nurses to verify data for accuracy and completion. 
+![A Community Health App Built with the CHT](images/appdemo-targets.gif)
+
+**At the health system level,** data managers and others use apps and admin consoles built with the CHT to collate and report on key community and health system data. Their work often involves following up with supervisors and nurses to verify data for accuracy and completion.  
+
+![A Community Health App Built with the CHT](images/appdemo-web.gif)
 
 
   ## Featured Resources 
 
-    - Core Framework: Intro (Include Offline First, Responsive), Demo, Core Framework Overview Deck
+  ### The Core Framework
+  
+The Core Framework makes it faster to build full-featured, scalable digital health apps by providing a foundation developers can build on. These apps can support most languages, are offline-first, and work on basic phones (via SMS), smartphones, tablets, and computers. 
+
+App developers are able to define health system roles, permissions and reporting hierarchies, and make use of five highly configurable areas of functionality: messaging, task and schedule management, decision support workflows, longitudinal person profiles, and analytics. 
+
+The Core Framework can be used to support the unique needs of a given health system and the work of community health workers, frontline supervisors, facility-based nurses, health system managers, and even patients and caregivers.
+
+You can download a self-guided demo of a community health app built with the Core Framework [here](https://communityhealthtoolkit.org/contact) 
+
+You can also explore an overview of the Core Framework and its key features [here](CoreFrameworkOverview.pdf)
+
+  ### Antenatal Care Reference App
+  
+  
+Reference Apps provide organizations with a template for structuring and organizing a community health workflow, its configuration code, and testing framework. They include a foundation for forms, data fields, and even analytics, and can be deployed as-is or easily customized by a developer for your unique context. 
+
+
+You can also explore an overview of the ANC Reference App and its key features [here](ANCReferenceAppOverview.pdf)
+
+  
+  
+  
+
     - Reference Application: Intro, ANC Ref App Overview Deck, Core Framework Overview Deck (again)
+    
+    
     - Oppia Mobile
     - Icon Library
   - Next Steps / Reach Out (Partnership Plug)
