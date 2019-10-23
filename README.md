@@ -7,6 +7,46 @@ The Community Health Toolkit provides you with resources to design, build, deplo
 # Table of Contents
 
  FILL THIS IN AT THE END
+ 
+# Featured Resources 
+
+## The Core Framework
+  
+The Core Framework makes it faster to build full-featured, scalable digital health apps by providing a foundation developers can build on. These apps can support most languages, are offline-first, and work on basic phones (via SMS), smartphones, tablets, and computers. 
+
+App developers are able to define health system roles, permissions and reporting hierarchies, and make use of five highly configurable areas of functionality: messaging, task and schedule management, decision support workflows, longitudinal person profiles, and analytics. 
+
+The Core Framework can be used to support the unique needs of a given health system and the work of community health workers, frontline supervisors, facility-based nurses, health system managers, and even patients and caregivers.
+
+Access a self-guided demo of an app built with the Core Framework [here](https://communityhealthtoolkit.org/contact) 
+
+You can also explore an overview of the Core Framework and its key features [here](core-framework-overview.pdf)
+
+## Antenatal Care Reference App
+  
+Reference Apps provide organizations with a template for structuring and organizing a community health workflow, its configuration code, and testing framework. They include a foundation for forms, data fields, and even analytics, and can be deployed as-is or easily customized by a developer for your unique context. 
+
+Learn more about developing your own community health app [here]([here](https://github.com/medic/medic-docs/blob/master/configuration/developing-community-health-applications.md) 
+
+You can also explore an overview of the ANC Reference App and its key features [here](anc-reference-app-overview.pdf)
+
+## OppiaMobile
+
+OppiaMobile is an open source mobile learning platform specially designed  for delivering learning content, multimedia and quizzes in low-broadband settings. All the content and activities can be accessed and used even when no internet connection is available, and users can earn points and badges for completing activities, quizzes and watching videos
+
+Learn more about OppiaMobile's features [here](https://digital-campus.org/oppiamobile/)
+
+You can also read a platform overview for developers [here](https://digital-campus.org/oppiamobile/developers/)
+    
+## The Community Health Toolkit Icon Library
+
+This collection of 60+ free icons was developed by the Medic Mobile team to represent key elements of different community health workflows and protocols. These icons can be used in your app or for other communication efforts. 
+
+
+
+
+
+
 
 # Are You Interested In:
 
@@ -26,49 +66,8 @@ The resources provided through the Community Health Toolkit can be used to build
 
 ![A Community Health App Built with the CHT](images/appdemo-web.gif)
 
-
-  ## Featured Resources 
-
-  ### The Core Framework
-  
-The Core Framework makes it faster to build full-featured, scalable digital health apps by providing a foundation developers can build on. These apps can support most languages, are offline-first, and work on basic phones (via SMS), smartphones, tablets, and computers. 
-
-App developers are able to define health system roles, permissions and reporting hierarchies, and make use of five highly configurable areas of functionality: messaging, task and schedule management, decision support workflows, longitudinal person profiles, and analytics. 
-
-The Core Framework can be used to support the unique needs of a given health system and the work of community health workers, frontline supervisors, facility-based nurses, health system managers, and even patients and caregivers.
-
-You can download a self-guided demo of a community health app built with the Core Framework [here](https://communityhealthtoolkit.org/contact) 
-
-You can also explore an overview of the Core Framework and its key features [here](CoreFrameworkOverview.pdf)
-
-  ### Antenatal Care Reference App
-  
-  
-Reference Apps provide organizations with a template for structuring and organizing a community health workflow, its configuration code, and testing framework. They include a foundation for forms, data fields, and even analytics, and can be deployed as-is or easily customized by a developer for your unique context. 
-
-
-You can also explore an overview of the ANC Reference App and its key features [here](ANCReferenceAppOverview.pdf)
-
-  
-  
-  
-
-    - Reference Application: Intro, ANC Ref App Overview Deck, Core Framework Overview Deck (again)
-    
-    
-    - Oppia Mobile
-    - Icon Library
   - Next Steps / Reach Out (Partnership Plug)
-  
-  ## Configuring & Deploying Our ANC Reference App
 
-  - Intro
-  - How to Configure, Customize, and Brand Our ANC Reference App
-  - Coming Soon: Tutorials and Build Alongs
-  - How Deploy Our ANC Reference App
-      - For Ops to fill in. Step by step for getting it running in a legitimate, deployed fashion (requirements, phone reqs, docker, etc)
-      - Each of the sections of the admin UI
-      - Reference
 
   ## Developing Your Own Community Health App
   
@@ -86,6 +85,16 @@ You can also explore an overview of the ANC Reference App and its key features [
   - Purging
   - API reference (e.g. to the api’s REST api)
 
+
+  ## Configuring & Deploying Our ANC Reference App
+
+  - Intro
+  - How to Configure, Customize, and Brand Our ANC Reference App
+  - Coming Soon: Tutorials and Build Alongs
+  - How Deploy Our ANC Reference App
+      - For Ops to fill in. Step by step for getting it running in a legitimate, deployed fashion (requirements, phone reqs, docker, etc)
+      - Each of the sections of the admin UI
+      - Reference
 
 
 
