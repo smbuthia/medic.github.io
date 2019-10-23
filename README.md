@@ -42,11 +42,9 @@ You can also read a platform overview for developers [here](https://digital-camp
 
 This collection of 60+ free icons was developed by the Medic Mobile team to represent key elements of different community health workflows and protocols. These icons can be used in your app or for other communication efforts. 
 
+Access the Icon Library's Repo on Github [here](https://github.com/medic/icon-library)
 
-
-
-
-
+<img alt="Example Icons" style="border-width:0" src="https://github.com/medic/medic.github.io/blob/master/images/icon-example-people-places.png?format=1000w" />
 
 # Are You Interested In:
 
@@ -56,18 +54,13 @@ The resources provided through the Community Health Toolkit can be used to build
 
 **At the community level,** community health workers (CHWs) use apps built with the CHT to register patients, conduct guided health assessments, screen for specific conditions and danger signs, and refer patients to health facilities.
 
-![A Community Health App Built with the CHT](images/appdemo-addperson.gif)
-
 **At the health facility level,** nurses and CHW supervisors use apps and admin consoles built with the CHT to coordinate care for patients with the CHWs, promote health practices in the community, and report health and service delivery statistics to health system officials
-
-![A Community Health App Built with the CHT](images/appdemo-targets.gif)
 
 **At the health system level,** data managers and others use apps and admin consoles built with the CHT to collate and report on key community and health system data. Their work often involves following up with supervisors and nurses to verify data for accuracy and completion.  
 
-![A Community Health App Built with the CHT](images/appdemo-web.gif)
+![Community Health Apps Built with the CHT](images/appdemo-trio.gif)
 
-  - Next Steps / Reach Out (Partnership Plug)
-
+ Have questions? Want to learn alongside a community of users? Join our [community forum](https://forum.communityhealthtoolkit.org) and let us know how we can help! 
 
   ## Developing Your Own Community Health App
   
