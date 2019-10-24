@@ -10,6 +10,14 @@ The Community Health Toolkit provides you with resources to design, build, deplo
  
 # Featured Resources 
 
+## The Community Health Toolkit Icon Library
+
+This collection of 60+ free icons was developed by the Medic Mobile team to represent key elements of different community health workflows and protocols. These icons can be used in your app or for other communication efforts. 
+
+Access the Icon Library's Repo on Github [here](https://github.com/medic/icon-library)
+
+<img alt="Example Icons" style="border-width:0" src="https://github.com/medic/medic.github.io/blob/master/images/icon-example-people-places.png?format=1000w" />
+
 ## The Core Framework
   
 The Core Framework makes it faster to build full-featured, scalable digital health apps by providing a foundation developers can build on. These apps can support most languages, are offline-first, and work on basic phones (via SMS), smartphones, tablets, and computers. 
@@ -37,14 +45,6 @@ OppiaMobile is an open source mobile learning platform specially designed  for d
 Learn more about OppiaMobile's features [here](https://digital-campus.org/oppiamobile/)
 
 You can also read a platform overview for developers [here](https://digital-campus.org/oppiamobile/developers/)
-    
-## The Community Health Toolkit Icon Library
-
-This collection of 60+ free icons was developed by the Medic Mobile team to represent key elements of different community health workflows and protocols. These icons can be used in your app or for other communication efforts. 
-
-Access the Icon Library's Repo on Github [here](https://github.com/medic/icon-library)
-
-<img alt="Example Icons" style="border-width:0" src="https://github.com/medic/medic.github.io/blob/master/images/icon-example-people-places.png?format=1000w" />
 
 # Are You Interested In:
 
@@ -62,32 +62,17 @@ The resources provided through the Community Health Toolkit can be used to build
 
  Have questions? Want to learn alongside a community of users? Join our [community forum](https://forum.communityhealthtoolkit.org) and let us know how we can help! 
 
-  ## Developing Your Own Community Health App
-  
-  - Intro
-  - Set up the Docker demo, set up medic-conf, read the configuration overview, and start configuring!
-  - Coming Soon: Tutorials and Build Alongs
-  - Medic-conf reference (a man page, basically)
-  - App settings (schema, explanation of fields, links to other reference pages)
-  - Tasks
-  - Targets
-  - Forms
-  - Reports
-  - Contacts
-  - Contact summary
-  - Purging
-  - API reference (e.g. to the api’s REST api)
+  ## Customizing and Configuring Our ANC Reference App For Your Project
+
+While our ANC Reference App can be used as is, most organizations and projects will want to configure and customize the apps tasks, care cuides, reports and even branding. These changes are not made at the code level, but often still require technical skills and experience. 
+
+To explore how we use forms to build the Tasks, Care Guides, and Reports that take health workers through care protocols and provide decision support for their interactions with patients, read our Configuration Best Practices Guide [here].
+
+To learn how to add your own logo, project name, and more to our Reference App, read our App Branding Guide [here].
 
 
-  ## Configuring & Deploying Our ANC Reference App
-
-  - Intro
-  - How to Configure, Customize, and Brand Our ANC Reference App
-  - Coming Soon: Tutorials and Build Alongs
-  - How Deploy Our ANC Reference App
-      - For Ops to fill in. Step by step for getting it running in a legitimate, deployed fashion (requirements, phone reqs, docker, etc)
-      - Each of the sections of the admin UI
-      - Reference
+### Coming Soon: Tutorials and Build Alongs
+ 
 
 
 
