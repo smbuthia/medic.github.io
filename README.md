@@ -16,7 +16,7 @@ This collection of 60+ free icons was developed by the Medic Mobile team to repr
 
 Access the Icon Library's Repo on Github [here](https://github.com/medic/icon-library)
 
-<img alt="Example Icons" style="border-width:0" src="https://github.com/medic/medic.github.io/blob/master/images/icon-example-people-places.png?format=1000w" />
+<img alt="Example Icons" style="border-width:0" src="https://github.com/medic/medic.github.io/blob/master/images/preview-icon-library.png?format=1000w" />
 
 ## The Core Framework
   
@@ -30,6 +30,8 @@ Access a self-guided demo of an app built with the Core Framework [here](https:/
 
 You can also explore an overview of the Core Framework and its key features [here](core-framework-overview.pdf)
 
+<a href="https://github.com/medic/medic.github.io/blob/master/resource-overviews/core-framework-overview.pdf"><img src="https://github.com/medic/medic.github.io/blob/master/images/preview-core-framework-overview.png"></a>
+
 ## Antenatal Care Reference App
   
 Reference Apps provide organizations with a template for structuring and organizing a community health workflow, its configuration code, and testing framework. They include a foundation for forms, data fields, and even analytics, and can be deployed as-is or easily customized by a developer for your unique context. 
@@ -37,6 +39,9 @@ Reference Apps provide organizations with a template for structuring and organiz
 Learn more about developing your own community health app [here](https://github.com/medic/medic-docs/blob/master/configuration/developing-community-health-applications.md) 
 
 You can also explore an overview of the ANC Reference App and its key features [here](anc-reference-app-overview.pdf)
+
+<a href="https://github.com/medic/medic.github.io/blob/master/resource-overviews/anc-reference-app-overview.pdf"><img src="https://github.com/medic/medic.github.io/blob/master/images/preview-anc-ref-app-overview.png"></a>
+
 
 ## OppiaMobile
 
@@ -66,11 +71,13 @@ The resources provided through the Community Health Toolkit can be used to build
 
 While our ANC Reference App can be used as is, most organizations and projects will want to configure and customize the apps tasks, care cuides, reports and even branding. These changes are not made at the code level, but often still require technical skills and experience. 
 
-To explore how we use forms to build the Tasks, Care Guides, and Reports that take health workers through care protocols and provide decision support for interactions with patients, read our Configuration Best Practices Guide [here](https://github.com/medic/medic.github.io/blob/master/resource-overviews/app-branding-overview.pdf).
+To explore how we use forms to build the Tasks, Care Guides, and Reports that take health workers through care protocols and provide decision support for interactions with patients, read our Configuration Best Practices Guide [here](https://github.com/medic/medic.github.io/blob/master/resource-overviews/configuration-best-practices-overview.pdf).
 
 <a href="https://github.com/medic/medic.github.io/blob/master/resource-overviews/app-branding-overview.pdf"><img src="https://github.com/medic/medic.github.io/blob/master/images/preview-configuration-best-practices-overview.png"></a>
 
 To learn how to add your own logo, project name, and more to our Reference App, read our App Branding Guide [here](https://github.com/medic/medic.github.io/blob/master/resource-overviews/app-branding-overview.pdf).
+
+<a href="https://github.com/medic/medic.github.io/blob/master/resource-overviews/app-branding-overview.pdf"><img src="https://github.com/medic/medic.github.io/blob/master/images/preview-app-branding-overview.png"></a>
 
 
 ### Coming Soon: Tutorials and Build Alongs
