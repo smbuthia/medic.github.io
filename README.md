@@ -34,7 +34,7 @@ You can also explore an overview of the Core Framework and its key features [her
   
 Reference Apps provide organizations with a template for structuring and organizing a community health workflow, its configuration code, and testing framework. They include a foundation for forms, data fields, and even analytics, and can be deployed as-is or easily customized by a developer for your unique context. 
 
-Learn more about developing your own community health app [here]([here](https://github.com/medic/medic-docs/blob/master/configuration/developing-community-health-applications.md) 
+Learn more about developing your own community health app [here](https://github.com/medic/medic-docs/blob/master/configuration/developing-community-health-applications.md) 
 
 You can also explore an overview of the ANC Reference App and its key features [here](anc-reference-app-overview.pdf)
 
@@ -66,9 +66,9 @@ The resources provided through the Community Health Toolkit can be used to build
 
 While our ANC Reference App can be used as is, most organizations and projects will want to configure and customize the apps tasks, care cuides, reports and even branding. These changes are not made at the code level, but often still require technical skills and experience. 
 
-To explore how we use forms to build the Tasks, Care Guides, and Reports that take health workers through care protocols and provide decision support for their interactions with patients, read our Configuration Best Practices Guide [here].
+To explore how we use forms to build the Tasks, Care Guides, and Reports that take health workers through care protocols and provide decision support for their interactions with patients, read our Configuration Best Practices Guide [here](https://github.com/medic/medic.github.io/blob/master/resource-overviews/app-branding-overview.pdf).
 
-To learn how to add your own logo, project name, and more to our Reference App, read our App Branding Guide [here].
+To learn how to add your own logo, project name, and more to our Reference App, read our App Branding Guide [here](https://github.com/medic/medic.github.io/blob/master/resource-overviews/app-branding-overview.pdf).
 
 
 ### Coming Soon: Tutorials and Build Alongs
