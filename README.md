@@ -69,7 +69,7 @@ The resources provided through the Community Health Toolkit can be used to build
 
   ## Customizing and Configuring Our ANC Reference App For Your Project
 
-While our ANC Reference App can be used as is, most organizations and projects will want to configure and customize the apps tasks, care cuides, reports and even branding. These changes are not made at the code level, but often still require technical skills and experience. 
+While our ANC Reference App can be used as is, most organizations and projects will want to configure and customize the app's tasks, care cuides, reports and even branding. These changes are not made at the Core Framework code level, but often still require technical skills and experience. 
 
 To explore how we use forms to build the Tasks, Care Guides, and Reports that take health workers through care protocols and provide decision support for interactions with patients, read our Configuration Best Practices Guide [here](https://github.com/medic/medic.github.io/blob/master/resource-overviews/configuration-best-practices-overview.pdf).
 
