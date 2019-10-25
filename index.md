@@ -34,7 +34,7 @@ The Core Framework can be used to support the unique needs of a given health sys
 
 Access a self-guided demo of an app built with the Core Framework [here](https://communityhealthtoolkit.org/contact).
 
-You can also [explorean [overview of the Core Framework and its key features](./resource-overviews/core-framework-overview.pdf).
+You can also explore an [overview of the Core Framework and its key features](./resource-overviews/core-framework-overview.pdf).
 
 [![Core Framework Overview](./images/preview-core-framework-overview.png)](./resource-overviews/core-framework-overview.pdf)
 
@@ -42,7 +42,7 @@ You can also [explorean [overview of the Core Framework and its key features](./
 
 Reference Apps provide organizations with a template for structuring and organizing a community health workflow, its configuration code, and testing framework. They include a foundation for forms, data fields, and even analytics, and can be deployed as-is or easily customized by a developer for your unique context.
 
-[Learn more about developing your own community health app(https://github.com/medic/medic-docs/blob/master/configuration/developing-community-health-applications.md).
+[Learn more about developing your own community health app](https://github.com/medic/medic-docs/blob/master/configuration/developing-community-health-applications.md).
 
 You can also explore an [overview of the ANC Reference App and its key features](./resource-overviews/anc-reference-app-overview.pdf).
 
