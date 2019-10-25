@@ -88,16 +88,7 @@ To learn how to add your own logo, project name, and more to our Reference App, 
 
 ## Contributing Code or Developing on the Core Framework
 
-Stephen, I'm not going to write copy until we can see it in a doc site, but:
-
-Link to Development or:
-
-Set Up Dev Environment
-Link to Architectyre Doc
-Contributing Guideines (maybe from contributing.md
-The flow for contributing code, requesting and working on features etc - this doesnt exist yet, right?
-How to find things to work on
-
+If you're interested in contributing to the development of the Core Framework, take a look at the [Core Framework's Github repository](https://github.com/medic/cht-core), follow the [development environment setup instructions](https://github.com/medic/medic/blob/master/DEVELOPMENT.md) and take a look at the [contribution guide](https://github.com/medic/medic/blob/master/CONTRIBUTING.md)
 
 
 
