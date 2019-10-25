@@ -1,4 +1,5 @@
-name: Community Health Toolkit Documentation Site
+title: CHT Toolkit
+description: Community Health Toolkit Documentation Site
 markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
 plugins:

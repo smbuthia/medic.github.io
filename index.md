@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Community Health Toolkit Documentation
+title: Overview
+nav_order: 1
 ---
 
 # Overview
 
-The [Community Health Toolkit](http://communityhealthtoolkit.org_) (CHT) is a project by a group of leading organizations who have come together to support the development of digital health initiatives in the hardest-to-reach areas.
+The [Community Health Toolkit](http://communityhealthtoolkit.org) (CHT) is a project by a group of leading organizations who have come together to support the development of digital health initiatives in the hardest-to-reach areas.
 
 The Community Health Toolkit provides you with resources to design, build, deploy, and monitor digital tools for community health. It includes open source software frameworks and reference applications highlighting common use cases, guides to help design and use them, and a [community forum](https://forum.communityhealthtoolkit.org) for collaboration and support. Together, we can work toward a world where healthcare is of the highest attainable quality, equitable, accessible, and delivered by the people who are trusted most in their communities.
 
@@ -80,11 +81,11 @@ To explore how we use forms to build the Tasks, Care Guides, and Reports that ta
 
 [![Configuration Best Practices](./images/preview-configuration-best-practices-overview.png)](./resource-overviews/app-branding-overview.pdf)
 
+We are also in the process of writing more guides and clearer API documentation. For now, [part one of a guide to building an application from scratch](./docs/application_development/guides/from_scratch) is available, with more soon to follow.
+
 To learn how to add your own logo, project name, and more to our Reference App, read our [App Branding Guide](https://github.com/medic/medic.github.io/blob/master/resource-overviews/app-branding-overview.pdf).
 
 [![App Branding Overview](./images/preview-app-branding-overview.png)](./resource-overviews/app-branding-overview.pdf)
-
-### Coming Soon: Tutorials and Build Alongs
 
 ## Contributing Code or Developing on the Core Framework
 
