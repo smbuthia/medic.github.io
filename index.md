@@ -88,7 +88,7 @@ To learn how to add your own logo, project name, and more to our Reference App, 
 
 ## Contributing Code or Developing on the Core Framework
 
-If you're interested in contributing to the development of the Core Framework, take a look at the [Core Framework's Github repository](https://github.com/medic/cht-core), follow the [development environment setup instructions](https://github.com/medic/medic/blob/master/DEVELOPMENT.md) and take a look at the [contribution guide](https://github.com/medic/medic/blob/master/CONTRIBUTING.md)
+If you're interested in contributing to the development of the Core Framework, take a look at the [Core Framework's Github repository](https://github.com/medic/cht-core), follow the [development environment setup instructions](https://github.com/medic/medic/blob/master/DEVELOPMENT.md) and take a look at the [contribution guide](https://github.com/medic/medic/blob/master/CONTRIBUTING.md).
 
 
 
