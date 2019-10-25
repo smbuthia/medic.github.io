@@ -20,7 +20,7 @@ The Community Health Toolkit provides you with resources to design, build, deplo
 
 This collection of 60+ free icons was developed by the Medic Mobile team to represent key elements of different community health workflows and protocols. These icons can be used in your app or for other communication efforts.
 
-Access the Icon Library's Repo on Github [here](https://github.com/medic/icon-library)
+Access the [Icon Library's Repo on Github](https://github.com/medic/icon-library).
 
 ![Example Icons](./images/preview-icon-library.png?format=1000w)
 
@@ -34,7 +34,7 @@ The Core Framework can be used to support the unique needs of a given health sys
 
 Access a self-guided demo of an app built with the Core Framework [here](https://communityhealthtoolkit.org/contact).
 
-You can also explore an overview of the Core Framework and its key features [here](./resource-overviews/core-framework-overview.pdf).
+You can also [explorean [overview of the Core Framework and its key features](./resource-overviews/core-framework-overview.pdf).
 
 [![Core Framework Overview](./images/preview-core-framework-overview.png)](./resource-overviews/core-framework-overview.pdf)
 
@@ -42,9 +42,9 @@ You can also explore an overview of the Core Framework and its key features [her
 
 Reference Apps provide organizations with a template for structuring and organizing a community health workflow, its configuration code, and testing framework. They include a foundation for forms, data fields, and even analytics, and can be deployed as-is or easily customized by a developer for your unique context.
 
-Learn more about developing your own community health app [here](https://github.com/medic/medic-docs/blob/master/configuration/developing-community-health-applications.md).
+[Learn more about developing your own community health app(https://github.com/medic/medic-docs/blob/master/configuration/developing-community-health-applications.md).
 
-You can also explore an overview of the ANC Reference App and its key features [here](./resource-overviews/anc-reference-app-overview.pdf).
+You can also explore an [overview of the ANC Reference App and its key features](./resource-overviews/anc-reference-app-overview.pdf).
 
 [![ANC Overview](./images/preview-anc-ref-app-overview.png)](./resource-overviews/anc-reference-app-overview.pdf)
 
@@ -52,9 +52,9 @@ You can also explore an overview of the ANC Reference App and its key features [
 
 OppiaMobile is an open source mobile learning platform specially designed  for delivering learning content, multimedia and quizzes in low-broadband settings. All the content and activities can be accessed and used even when no internet connection is available, and users can earn points and badges for completing activities, quizzes and watching videos
 
-Learn more about OppiaMobile's features [here](https://digital-campus.org/oppiamobile/).
+[Learn more about OppiaMobile's features](https://digital-campus.org/oppiamobile/).
 
-You can also read a platform overview for developers [here](https://digital-campus.org/oppiamobile/developers/).
+You can also read a [platform overview for developers](https://digital-campus.org/oppiamobile/developers/).
 
 # Are You Interested In:
 
@@ -76,11 +76,11 @@ Have questions? Want to learn alongside a community of users? Join our [communit
 
 While our ANC Reference App can be used as is, most organizations and projects will want to configure and customize the app's tasks, care cuides, reports and even branding. These changes are not made at the Core Framework code level, but often still require technical skills and experience.
 
-To explore how we use forms to build the Tasks, Care Guides, and Reports that take health workers through care protocols and provide decision support for interactions with patients, read our Configuration Best Practices Guide [here](./resource-overviews/configuration-best-practices-overview.pdf).
+To explore how we use forms to build the Tasks, Care Guides, and Reports that take health workers through care protocols and provide decision support for interactions with patients, read our [Configuration Best Practices Guide](./resource-overviews/configuration-best-practices-overview.pdf).
 
 [![Configuration Best Practices](./images/preview-configuration-best-practices-overview.png)](./resource-overviews/app-branding-overview.pdf)
 
-To learn how to add your own logo, project name, and more to our Reference App, read our App Branding Guide [here](https://github.com/medic/medic.github.io/blob/master/resource-overviews/app-branding-overview.pdf).
+To learn how to add your own logo, project name, and more to our Reference App, read our [App Branding Guide](https://github.com/medic/medic.github.io/blob/master/resource-overviews/app-branding-overview.pdf).
 
 [![App Branding Overview](./images/preview-app-branding-overview.png)](./resource-overviews/app-branding-overview.pdf)
 
