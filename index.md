@@ -20,7 +20,7 @@ The Community Health Toolkit provides you with resources to design, build, deplo
 
 This collection of 60+ free icons was developed by the Medic Mobile team to represent key elements of different community health workflows and protocols. These icons can be used in your app or for other communication efforts.
 
-Access the [Icon Library's Repo on Github](https://github.com/medic/icon-library).
+[Access the Icon Library's Repo on Github](https://github.com/medic/icon-library).
 
 ![Example Icons](./images/preview-icon-library.png?format=1000w)
 
@@ -32,7 +32,7 @@ App developers are able to define health system roles, permissions and reporting
 
 The Core Framework can be used to support the unique needs of a given health system and the work of community health workers, frontline supervisors, facility-based nurses, health system managers, and even patients and caregivers.
 
-Access a self-guided demo of an app built with the Core Framework [here](https://communityhealthtoolkit.org/contact).
+[Access a self-guided demo of an app built with the Core Framework](https://communityhealthtoolkit.org/contact).
 
 You can also explore an [overview of the Core Framework and its key features](./resource-overviews/core-framework-overview.pdf).
 
