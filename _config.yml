@@ -1,8 +1,5 @@
 name: Community Health Toolkit Documentation Site
 markdown: kramdown
-
-# Unsure how to get this working properly
-# Github requires that we use remote_theme as just-the-docs isn't a default theme supported by github pages: using theme at all causes Github to send warning emails
-# However, if you don't use theme then you can't build locally
 remote_theme: pmarsceill/just-the-docs
-# theme: just-the-docs
+plugins:
+ - jekyll-remote-theme
