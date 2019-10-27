@@ -59,7 +59,7 @@ You can also read a [platform overview for developers](https://digital-campus.or
 
 # Are You Interested In:
 
-## Using Tools Built with the Community Health Toolkit in Your Community
+## Using Tools Built with the Community Health Toolkit
 
 The resources provided through the Community Health Toolkit can be used to build digital health apps used at the community, health facility, and health system level:
 
@@ -73,7 +73,7 @@ The resources provided through the Community Health Toolkit can be used to build
 
 Have questions? Want to learn alongside a community of users? Join our [community forum](https://forum.communityhealthtoolkit.org) and let us know how we can help!
 
-## Customizing and Configuring Our ANC Reference App For Your Project
+## Customizing and Configuring Our ANC Reference App
 
 While our ANC Reference App can be used as is, most organizations and projects will want to configure and customize the app's tasks, care cuides, reports and even branding. These changes are not made at the Core Framework code level, but often still require technical skills and experience.
 
