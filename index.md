@@ -30,13 +30,18 @@ The Core Framework makes it faster to build full-featured, scalable digital heal
 App developers are able to define health system roles, permissions and reporting hierarchies, and make use of five highly configurable areas of functionality: messaging, task and schedule management, decision support workflows, longitudinal person profiles, and analytics.
 
 The Core Framework can be used to support the unique needs of a given health system and the work of community health workers, frontline supervisors, facility-based nurses, health system managers, and even patients and caregivers. Visit the Commuity Health Toolkit website to request a [self-guided demo](https://communityhealthtoolkit.org/contact) of an app built with the Core Framework. You can also explore an [overview of the Core Framework](./resource-overviews/core-framework-overview.pdf) and its key features.
+
 [![Core Framework Overview](./images/preview-core-framework-overview.png)](./resource-overviews/core-framework-overview.pdf)
 
 ## Antenatal Care Reference App by Medic Mobile
 
-Our tools are configurable by design, support an exceptional range of features and health service areas. Our ANC Reference App provides organizations with a template for structuring and organizing you app, it’s configuration code, and testing framework. It includes a foundation for forms related to pregnancy and delivery, flexible data fields, and even analytics, and can be deployed as-is or customized by a developer for your unique context. To install the ANC Reference Application, follow our [easy installation instructions](https://github.com/medic/cht-core/blob/master/INSTALL.md). An [overview of the ANC Reference App](./resource-overviews/anc-reference-app-overview.pdf) and its key features is also available. If you want to modify our ANC Reference Application for your project or context, read our [configuration best practices](https://github.com/medic/medic.github.io/blob/master/resource-overviews/configuration-best-practices-overview.pdf) or learn how to [develope your own community health apps](https://github.com/medic/medic-docs/blob/master/configuration/developing-community-health-applications.md).
+Our tools are configurable by design, support an exceptional range of features and health service areas. Our ANC Reference App provides organizations with a template for structuring and organizing you app, it’s configuration code, and testing framework. It includes a foundation for forms related to pregnancy and delivery, flexible data fields, and even analytics, and can be deployed as-is or customized by a developer for your unique context. To install the ANC Reference Application, follow our [easy installation instructions](https://github.com/medic/cht-core/blob/master/INSTALL.md). An [overview of the ANC Reference App](./resource-overviews/anc-reference-app-overview.pdf) and its key features is also available. 
 
 [![ANC Overview](./images/preview-anc-ref-app-overview.png)](./resource-overviews/anc-reference-app-overview.pdf)
+
+If you want to modify our ANC Reference Application for your project or context, read our [configuration best practices](https://github.com/medic/medic.github.io/blob/master/resource-overviews/configuration-best-practices-overview.pdf) or learn how to [develope your own community health apps](https://github.com/medic/medic-docs/blob/master/configuration/developing-community-health-applications.md).
+
+[![ANC Overview](./images/preview-configuration-best-practices-overview.png)](./resource-overviews/configuration-best-practices-overview.pdf)
 
 ## OppiaMobile by Digital Campus
 
@@ -62,7 +67,7 @@ Have questions? Want to learn alongside a community of users? Join our [communit
 
 While our ANC Reference App can be used as is, most organizations and projects will want to configure and customize the app's tasks, care cuides, reports and even branding. These changes are not made at the Core Framework code level, but often still require technical skills and experience. To explore how we use forms to build the Tasks, Care Guides, and Reports that take health workers through care protocols and provide decision support for interactions with patients, read our [Configuration Best Practices Guide](./resource-overviews/configuration-best-practices-overview.pdf).
 
-[![Configuration Best Practices](./images/preview-configuration-best-practices-overview.png)](./resource-overviews/app-branding-overview.pdf)
+[![Configuration Best Practices](./images/preview-configuration-best-practices-overview.png)
 
 To learn how to add your own logo, project name, and more to our Reference App, read our [App Branding Guide](https://github.com/medic/medic.github.io/blob/master/resource-overviews/app-branding-overview.pdf).
 
