@@ -19,9 +19,7 @@ The Community Health Toolkit provides you with resources to design, build, deplo
 
 ## The Community Health Toolkit Icon Library
 
-This collection of 60+ free icons was developed by the Medic Mobile team to represent key elements of different community health workflows and protocols. These icons can be used in your app or for other communication efforts.
-
-[Access the Icon Library's Repo on Github](https://github.com/medic/icon-library).
+This collection of 60+ free icons was developed by the Medic Mobile team to represent key elements of different community health workflows and protocols. These icons can be used in your app or for other communication efforts. Click here to [access the icon library's repo](https://github.com/medic/icon-library).
 
 ![Example Icons](./images/preview-icon-library.png?format=1000w)
 
@@ -31,21 +29,13 @@ The Core Framework makes it faster to build full-featured, scalable digital heal
 
 App developers are able to define health system roles, permissions and reporting hierarchies, and make use of five highly configurable areas of functionality: messaging, task and schedule management, decision support workflows, longitudinal person profiles, and analytics.
 
-The Core Framework can be used to support the unique needs of a given health system and the work of community health workers, frontline supervisors, facility-based nurses, health system managers, and even patients and caregivers.
-
-[Access a self-guided demo of an app built with the Core Framework](https://communityhealthtoolkit.org/contact).
-
-You can also explore an [overview of the Core Framework and its key features](./resource-overviews/core-framework-overview.pdf).
+The Core Framework can be used to support the unique needs of a given health system and the work of community health workers, frontline supervisors, facility-based nurses, health system managers, and even patients and caregivers. Visit the Commuity Health Toolkit website to [request a self-guided demo of an app built with the Core Framework](https://communityhealthtoolkit.org/contact). You can also explore an [overview of the Core Framework and its key features](./resource-overviews/core-framework-overview.pdf).
 
 [![Core Framework Overview](./images/preview-core-framework-overview.png)](./resource-overviews/core-framework-overview.pdf)
 
 ## Antenatal Care Reference App
 
-Reference Apps provide organizations with a template for structuring and organizing a community health workflow, its configuration code, and testing framework. They include a foundation for forms, data fields, and even analytics, and can be deployed as-is or easily customized by a developer for your unique context.
-
-[Learn more about developing your own community health app](https://github.com/medic/medic-docs/blob/master/configuration/developing-community-health-applications.md).
-
-You can also explore an [overview of the ANC Reference App and its key features](./resource-overviews/anc-reference-app-overview.pdf).
+Our tools are configurable by design, support an exceptional range of features and health service areas. Our ANC Reference App provides organizations with a template for structuring and organizing you app, it’s configuration code, and testing framework. It includes a foundation for forms related to pregnancy and delivery, flexible data fields, and even analytics, and can be deployed as-is or customized by a developer for your unique context. To install the ANC Reference Application, follow our [easy deployment instructions](https://github.com/medic/cht-core/blob/master/INSTALL.md). An [overview of the ANC Reference App and its key features](./resource-overviews/anc-reference-app-overview.pdf) is also available. If you want to modify our ANC Reference Application for your project or context, read our [configuration best practices](https://github.com/medic/medic.github.io/blob/master/resource-overviews/configuration-best-practices-overview.pdf) or [learn how to delveope your own community health app](https://github.com/medic/medic-docs/blob/master/configuration/developing-community-health-applications.md).
 
 [![ANC Overview](./images/preview-anc-ref-app-overview.png)](./resource-overviews/anc-reference-app-overview.pdf)
 
