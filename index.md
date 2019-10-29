@@ -39,7 +39,7 @@ Our tools are configurable by design, support an exceptional range of features a
 
 [![ANC Overview](./images/preview-anc-ref-app-overview.png)](./resource-overviews/anc-reference-app-overview.pdf)
 
-If you want to modify our ANC Reference Application for your project or context, read our [configuration best practices](https://github.com/medic/medic.github.io/blob/master/resource-overviews/configuration-best-practices-overview.pdf) or learn how to [develope your own community health apps](https://github.com/medic/medic-docs/blob/master/configuration/developing-community-health-applications.md).
+If you want to modify our ANC Reference Application for your project or context, read our [configuration best practices](https://github.com/medic/medic.github.io/blob/master/resource-overviews/configuration-best-practices-overview.pdf) or learn how to [develop your own community health apps](https://github.com/medic/medic-docs/blob/master/configuration/developing-community-health-applications.md).
 
 ## OppiaMobile by Digital Campus
 
