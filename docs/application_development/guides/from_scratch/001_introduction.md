@@ -13,7 +13,7 @@ If you want to look at one we’ve prepared earlier, you can also take a look at
 
 ## Are these tutorials for me?
 
-Firstly, you should be interested in building or maintaining an application built using the CHT core framework. For more information about the CHT, [take a look at our CHT overview](/). If you’re unsure if you’re interested in building an application with the CHT, this is where you should start.
+Firstly, you should be interested in building or maintaining an application built using the CHT Core Framework. For more information about the CHT, [take a look at our CHT overview](/). If you’re unsure if you’re interested in building an application with the CHT, this is where you should start.
 
 Secondly, you’ll also need _some_ software development skills. Applications are built using a combination of JavaScript, JSON and XML, and configurations are deployed using a terminal. If you’re comfortable writing simple scripts in JavaScript you will do fine here.
 
@@ -101,15 +101,15 @@ Let’s talk briefly about what each of these is for:
 - `tasks.json` contains our declarative tasks config
 - `translations` is the directory where you’d put custom translations, to either make changes to a language already supported in the CHT core, or to upload your own
 
-We’ll go over these in far more detail in later tutorials. For now, let’s go through deploying your project, first by getting the core framework up and running.
+We’ll go over these in far more detail in later tutorials. For now, let’s go through deploying your project, first by getting the Core Framework up and running.
 
 ## Installing the Core Framework
 
-There are a few different ways of getting the core framework running.
+There are a few different ways of getting the Core Framework running.
 
 If you are just interested in Core Framework configurations, follow the [easy installation guide](https://github.com/medic/medic/blob/master/INSTALL.md).
 
-If you’re _also_ interested in [contributing to the core framework](https://github.com/medic/medic/blob/master/CONTRIBUTING.md) and are comfortable with a more complicated setup feel free to follow the [developer setup guide](https://github.com/medic/medic/blob/master/DEVELOPMENT.md).
+If you’re _also_ interested in [contributing to the Core Framework](https://github.com/medic/medic/blob/master/CONTRIBUTING.md) and are comfortable with a more complicated setup feel free to follow the [developer setup guide](https://github.com/medic/medic/blob/master/DEVELOPMENT.md).
 
 If you followed the easy installation guide the framework should be available at https://localhost.
 
@@ -129,7 +129,7 @@ Now that the framework is working we can use `medic-conf` to deploy your blank p
 
 ```sh
 medic-conf --url=https://medic:password@localhost --accept-self-signed-certs
-# or, if you setup the core framework development environment
+# or, if you setup the Core Framework development environment
 medic-conf --local
 ```
 
