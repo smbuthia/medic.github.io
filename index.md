@@ -39,7 +39,7 @@ Our tools are configurable by design, support an exceptional range of features a
 
 [![ANC Overview](./images/preview-anc-ref-app-overview.png)](./resource-overviews/anc-reference-app-overview.pdf)
 
-If you want to modify our ANC Reference Application for your project or context, read our [configuration best practices](https://github.com/medic/medic.github.io/blob/master/resource-overviews/configuration-best-practices-overview.pdf) or learn how to [develop your own community health apps](https://github.com/medic/medic-docs/blob/master/configuration/developing-community-health-applications.md).
+If you want to modify our ANC Reference Application for your project or context, read our [configuration best practices](./resource-overviews/configuration-best-practices-overview.pdf) or learn how to [develop your own community health apps](https://github.com/medic/medic-docs/blob/master/configuration/developing-community-health-applications.md).
 
 ## OppiaMobile by Digital Campus
 
@@ -67,7 +67,7 @@ While our ANC Reference App can be used as is, most organizations and projects w
 
 [![ANC Confuguration](./images/preview-configuration-best-practices-overview.png)](./resource-overviews/configuration-best-practices-overview.pdf)
 
-To learn how to add your own logo, project name, and more to our Reference App, read our [App Branding Guide](https://github.com/medic/medic.github.io/blob/master/resource-overviews/app-branding-overview.pdf).
+To learn how to add your own logo, project name, and more to our Reference App, read our [App Branding Guide](./resource-overviews/app-branding-overview.pdf).
 
 [![App Branding Overview](./images/preview-app-branding-overview.png)](./resource-overviews/app-branding-overview.pdf)
 
