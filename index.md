@@ -35,7 +35,7 @@ The Core Framework can be used to support the unique needs of a given health sys
 
 ## Antenatal Care Reference App by Medic Mobile
 
-Our tools are configurable by design, support an exceptional range of features and health service areas. Our ANC Reference App provides organizations with a template for structuring and organizing you app, it’s configuration code, and testing framework. It includes a foundation for forms related to pregnancy and delivery, flexible data fields, and even analytics, and can be deployed as-is or customized by a developer for your unique context. To install the ANC Reference Application, follow our [easy installation instructions](https://github.com/medic/cht-core/blob/master/INSTALL.md). An [overview of the ANC Reference App](./resource-overviews/anc-reference-app-overview.pdf) and its key features is also available. 
+Our tools are configurable by design, support an exceptional range of features and health service areas. Our ANC Reference App provides organizations with a template for structuring and organizing you app, it’s configuration code, and testing framework. It includes a foundation for forms related to pregnancy and delivery, flexible data fields, and even analytics, and can be deployed as-is or customized by a developer for your unique context. To install the ANC Reference Application, follow our [easy installation instructions](https://github.com/medic/cht-core/blob/master/INSTALL.md). An [overview of the ANC Reference App](./resource-overviews/anc-reference-app-overview.pdf) and its key features is also available.
 
 [![ANC Overview](./images/preview-anc-ref-app-overview.png)](./resource-overviews/anc-reference-app-overview.pdf)
 
