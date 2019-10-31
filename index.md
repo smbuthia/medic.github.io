@@ -43,7 +43,7 @@ The [Icon Library](https://github.com/medic/icon-library) includes over 60 free 
 
 ## OppiaMobile by Digital Campus
 
-OppiaMobile is an open source mobile learning platform specially designed for delivering learning content, multimedia, and quizzes in low-broadband settings. All the content and activities can be accessed and used even when no internet connection is available, and users can earn points and badges for completing activities and quizzes, and watching videos. Visit the [Digital Campus website](https://digital-campus.org/oppiamobile/) to learn more about OppiaMobile's features. You can also read their platform [overview for developers](https://digital-campus.org/oppiamobile/developers/).
+OppiaMobile is an open source mobile learning platform specially designed  for delivering learning content, multimedia and quizzes in low-broadband settings. All the content and activities can be accessed and used even when no internet connection is available, and users can earn points and badges for completing activities, quizzes and watching videos. Visit Digital Campus's [website](https://digital-campus.org/oppiamobile/) to learn more about OppiaMobile's features. You can also read their platform [overview for developers](https://digital-campus.org/oppiamobile/developers/).
 
 # Are You Interested In:
 
