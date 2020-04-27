@@ -40,10 +40,9 @@ From profiles, users can edit contact information, take actions, and, if viewing
 The top card on all profiles contains general information for the contact. All the fields shown in this summary card are configurable.
 
 <details>
-  <summary>Details for app builders</summary>
+  <summary><em>Details for app builders</em></summary>
 
->
-> **Configuring Contact Summary **
+> **Configuring Contact Summary**
 > 
 > Each field that can be shown on a contact's profile is defined as an object in the `fields` array of `contact-summary.templated.js`. The properties for each object determine how and when the field is shown.
 > 
@@ -74,7 +73,7 @@ Condition cards can be permanent or conditional; set to appear only when a speci
 - Length of time to display
 
 <details>
-  <summary>Details for app builders</summary>
+  <summary><em>Details for app builders</em></summary>
 
 > **Configuring Condition Cards**
 > 
@@ -108,7 +107,7 @@ You’ll see different forms here depending on which person or place you’re vi
 Health workers can use these Care Guides at any time. If the app has scheduled a care visit or follow up, it will be listed under “Tasks.” 
 
 <details>
-  <summary>Details for app builders</summary>
+  <summary><em>Details for app builders</em></summary>
 
 > **Configuring Care Guides**
 > 
