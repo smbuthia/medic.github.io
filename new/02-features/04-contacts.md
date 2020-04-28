@@ -36,10 +36,12 @@ To clear the search and return the default view, click on the refresh icon locat
 
 Clicking an item on the main list will open a profile where you can see detailed information about that person or place. At the top is general information like name and phone number.
 
-<img src="images/contacts-profile-1.png" width="23%" />
-<img src="images/contacts-profile-2.png" width="23%" />
-<img src="images/contacts-profile-3.png" width="23%" />
-<img src="images/contacts-profile-4.png" width="23%" />
+<p float="left">
+  <img src="images/contacts-profile-1.png" width="23%" />
+  <img src="images/contacts-profile-2.png" width="23%" />
+  <img src="images/contacts-profile-3.png" width="23%" />
+  <img src="images/contacts-profile-4.png" width="23%" />
+</p>
 
 If you’re viewing a place profile, you’ll see a list of people or places that belong to this place in the app hierarchy, such as family members. The star signifies the primary contact.
 
@@ -90,8 +92,10 @@ The top card on all profiles contains general information for the contact. All t
 
 A “condition” card displays data on a profile that’s been submitted in a report about that person or place. Data can be pulled from one report or summarize many reports.
 
-<img src="images/contacts-condition-card-1.png" width="23%" />
-<img src="images/contacts-condition-card-2.png" width="23%" />
+<p float="left">
+  <img src="images/contacts-condition-card-1.png" width="23%" />
+  <img src="images/contacts-condition-card-2.png" width="23%" />
+</p>
 
 Condition cards can be permanent or conditional; set to appear only when a specific type of report is submitted. They can also be set to disappear when a condition is resolved or a certain amount of time has passed. You can have as many condition cards as you like, though we recommend keeping the user’s experience in mind.
 
