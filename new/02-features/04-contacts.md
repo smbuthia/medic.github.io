@@ -54,6 +54,8 @@ From profiles, users can edit contact information, take actions, and, if viewing
 
 > **Configuring Contact Profiles**
 > 
+> #### Configuring Contact Profiles
+> 
 > A contact's profile page is defined by the [Fields](), [Cards](), and [Context]().
 > 
 > To update the Contact profiles for an app, changes must be compiled into `app-settings`, then uploaded.
