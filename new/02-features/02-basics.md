@@ -38,6 +38,14 @@ Data submitted in one form can generate several tasks at once, e.g., multiple AN
 
 A form can also trigger an SMS to be sent to another user, such as CHW supervisor or nurse, where immediate notification is desired. 
 
+<details>
+  <summary><em>Details for app developers</em></summary>
+
+> **Configuring Forms**
+> 
+> Whether using your application in the browser or via an Android app, all Contact creation/edit forms, care guides for decision support, and surveys are defined using [ODK XForms](https://opendatakit.github.io/xforms-spec/) -- a XML definition of the structure and format for a set of questions. Since writing raw XML can be tedious, we suggest creating the forms using the [XLSForm standard](http://xlsform.org/), and using the [medic-conf](https://github.com/medic/medic-conf) command line configurer tool to convert them to XForm format. The instructions on this site assume some knowledge of XLSForm, and distinguish between Contact forms (those used to create and edit contacts), other App forms (which are used for care guides and surveys). Information about Medic-specific XForm features, and form definitions for Medic Collect and SMS can be found in the broader [Forms documentation](https://github.com/medic/medic-docs/blob/master/configuration/forms.md). <!-- TODO: Link to migrated content on Contact forms, App forms, and JSON forms-->
+> </details>
+
 ## Hierarchies
 
 The Core Framework requires a hierarchy to organize the app. It is often based on the hierarchy of a health system. These levels might have different titles depending on a particular health system’s configuration. 
