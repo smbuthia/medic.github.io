@@ -1,4 +1,4 @@
-# Setting up CHT local configuration environment
+# How to set up a CHT local configuration environment
 
 ## Purpose of the guide
 
