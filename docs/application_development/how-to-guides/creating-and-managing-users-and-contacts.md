@@ -35,6 +35,55 @@ While logged in as an admin user, we will first create the Health Facility, CHW 
 
 ### _1. Create the Health Facility, CHW Supervisor, CHW Area, and CHW_
 
+#### Create new Health facility
+
+While logged into the CHT application, go to the people tab and select `New health facility`
+
+![new health facility](images/new-facility/select-new-facility.png "New health facility")
+
+There are 2 options for assigning a primary contact for the new facility:
+
+- Creating a new contact as you are creating the new facility
+- Selecting a primary contact from already created contacts
+
+For now we will skip creating or assigning a primary contact so that we can focus on creating the new facility.
+
+![skip primary contact](images/new-facility/skip-primary-contact.png "Skip primary contact")
+
+Enter the details of the facility and submit the form.
+
+![enter facility details](images/new-facility/enter-facility-name.png "Enter facility details")
+
+You should see the newly created facility appear on the left hand side and when you select it, you will see details of the facility appear on the right hand side.
+
+![created facility](images/new-facility/created-facility.png "Created facility")
+
+#### Create CHW Area and CHW
+
+We will now create a place and the primary contact for the place within one form. We want to create a CHW area within the facility that we previously created.
+
+Select the Health facility on the left hand side. You will then select `New area` on the right hand side.
+
+![new chw area](images/new-chw-area/new-chw-area.png "New CHW area")
+
+Select the option that lets you create a new person within the form. This person will automatically become the primary contact for the created place.
+
+![create new person](images/new-chw-area/create-new-person.png "Create a new person")
+
+Fill in the required fields and go to the next section.
+
+![fill fields](images/new-chw-area/fill-required-fields.png "Fill required fields")
+
+You will get an option to name the place after the created contact person or name it yourself. If you select `Yes`, the new place will be named `<contact-name>'s Area`. For example `Jane Doe's Area`.
+
+![name after contact](images/new-chw-area/name-after-primary-contact.png "Name after contact")
+
+Once you submit, a new CHW area will be created. You should see on the right hand, the CHW Area name, the primary contact of the CHW Area, and the facility that the CHW area belongs to.
+
+![created area](images/new-chw-area/created-chw-area.png "Created CHW Area")
+
+#### Create CHW Supervisor
+
 ### _2. Create the CHW user_
 
 ### _3. Create Households and Household members_
