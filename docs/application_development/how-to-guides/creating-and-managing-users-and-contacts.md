@@ -84,9 +84,39 @@ Once you submit, a new CHW area will be created. You should see on the right han
 
 #### Create CHW Supervisor
 
+To create a primary contact for an existing place (in this case, for the facility that we created without a primary contact); select the place and the select the `New person` action.
+
+![new person](images/new-chw-supervisor/new-person.png "New person")
+
+A new person form will appear with an option to change the place the new person will belong to. Once you submit this form, a new contact will be created in the Facility.
+
+![belongs to](images/new-chw-supervisor/belongs-to.png "Belongs to")
+
+Finally, we will set the newly created person as a primary contact for the Facility they belong to. To do this, select the facility and then select the `Edit` action.
+
+![edit facility](images/new-chw-supervisor/edit-facility.png "Edit facility")
+
+You should see an edit form from which you can set the primary contact of the facility and submit to apply the changes.
+
+![set primary contact](images/new-chw-supervisor/set-primary-contact.png "Set primary contact")
+
 ### _2. Create the CHW user_
 
-### _3. Create Households and Household members_
+With the CHW and CHW Supervisor contacts created, you may want to log in as a CHW and perform some actions. To do this, let's create a CHW user that's linked to the CHW contact we created earlier.
+
+Go to the hamburger menu and select `App Settings`.
+
+![app settings](images/new-chw-user/app-settings.png "App settings")
+
+When you are on the `App Settings` page, select `Users` on the right hand side and then select `Add user`.
+
+![add user](images/new-chw-user/add-user.png "Add user")
+
+You should now see an `Add user` form. Fill in the user name, the select the role as `CHW` or `Regional admin`. In the `Place` field, select the name of the CHW area whose CHW you want to create a user for (you can search by typing the first few letters of the CHW area name). Once that is done, under the `Associate contact` field select the name of the CHW whose user you are creating. Finally, input a password and hit submit.
+
+![user details](images/new-chw-user/fill-user-details.png "Fill user details")
+
+Once this is done, you can logout and log into the app using the username and password that you just created.
 
 ## Frequently Asked Questions
 
