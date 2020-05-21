@@ -31,7 +31,7 @@ You also require Docker for your operating system:
 - [Docker for MacOS](https://hub.docker.com/editions/community/docker-ce-desktop-mac)
 - [Docker for Windows](https://hub.docker.com/editions/community/docker-ce-desktop-windows)
 
-## How-to-steps
+## Implementation steps
 
 Now that you have the dependent tools and software install, you are ready to begin setting up your CHT local configuration environment.
 

@@ -27,7 +27,7 @@ In this guide you will learn how to create and edit contacts and their associate
 
 You should have a functioning CHT instance with contact forms configured. Read [How to set up a CHT local configuration environment](setting_up_local_configuration_environment.md)
 
-## How-to-steps
+## Implementation steps
 
 In this guide, we will work with the default contact forms and the default hierachy. The default hierarchy is illustrated above as part of the overview of key concepts.
 
