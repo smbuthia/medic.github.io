@@ -2,7 +2,7 @@
 
 ## Purpose of the guide
 
-In this guide you will learn how to create and edit contacts and their associated users in the CHT application. You will also learn how to manipulate contacts and their associated documents using medic conf.
+In this guide you will learn how to create and edit contacts and their associated users in the CHT application using the default contact creation forms. This will help you get familiar with the UI of the webapp as well as some features and functionality. If you are already comfortable with this, you can skip to [manipulating contacts and their associated documents using medic conf]().
 
 ## Brief overview of key concepts
 
@@ -120,4 +120,6 @@ Once this is done, you can logout and log into the app using the username and pa
 
 ## Frequently Asked Questions
 
-## Guide summary
+- [Is there any downside of creating too many users?](https://forum.communityhealthtoolkit.org/t/is-there-any-downside-of-creating-too-many-users/531)
+- [For offline users, how often does the app try to refresh if there is an available internet connection?](https://forum.communityhealthtoolkit.org/t/for-offline-users-how-often-does-the-app-try-to-refresh-if-there-is-an-available-internet-connection/503)
+- [Can one person belong to multiple places in the same hierarchy?](https://forum.communityhealthtoolkit.org/t/can-one-person-belong-to-multiple-places-in-the-same-hierarchy/101)

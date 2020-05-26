@@ -81,10 +81,11 @@ medic-conf --url=https://medic:password@localhost --accept-self-signed-certs
 
 `accept-self-signed-certs` tells medic-conf that it’s OK that the server’s certificate isn’t signed properly, which will be the case when using docker locally.
 
-Once you’ve run the above command it should complete with the message: `INFO All actions completed.`.
+Once you have run the above command it should complete with the message: `INFO All actions completed.`.
 
 ![all actions completed](images/local-config-environment/all-actions-completed.png "All actions completed")
 
 ## Frequently Asked Questions
 
-## Guide summary
+- [How do I upgrade to a higher version of the webapp?](https://forum.communityhealthtoolkit.org/t/cant-upgrade-to-3-8-version/608)
+- [How do I access the instance remotely?](https://forum.communityhealthtoolkit.org/t/unable-to-install-core-framework-in-cloud-instance/533)
