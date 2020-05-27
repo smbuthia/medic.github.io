@@ -1,8 +1,8 @@
-# How to create and manage users in the CHT app
+# How to create and manage users in the CHT app - Part 1
 
 ## Purpose of the guide
 
-In this guide you will learn how to create and edit contacts and their associated users in the CHT application using the default contact creation forms. This will help you get familiar with the UI of the webapp as well as some features and functionality. If you are already comfortable with this, you can skip to [manipulating contacts and their associated documents using medic conf]().
+In this guide you will learn how to create and edit contacts and their associated users in the CHT application using the default contact creation forms. This will help you get familiar with the UI of the webapp as well as some features and functionality. If you are already comfortable with this, you can skip to [manipulating contacts and their associated documents using medic conf](creating-and-managing-users-and-contacts-with-medic-conf.md).
 
 ## Brief overview of key concepts
 
@@ -29,9 +29,9 @@ You should have a functioning CHT instance with contact forms configured. Read [
 
 ## Implementation steps
 
-In this guide, we will work with the default contact forms and the default hierachy. The default hierarchy is illustrated above as part of the overview of key concepts.
+In this guide, you will work with the default contact forms and the default hierachy. The default hierarchy is illustrated above as part of the overview of key concepts.
 
-While logged in as an admin user, we will first create the Health Facility, CHW Supervisor, CHW Area, and CHW. We will then create the users for the CHW so that they can log in and create households and household members.
+While logged in as an admin user, you will first create the Health Facility, CHW Supervisor, CHW Area, and CHW. You will then create the users for the CHW so that they can log in and create households and household members.
 
 ### _1. Create the Health Facility, CHW Supervisor, CHW Area, and CHW_
 
