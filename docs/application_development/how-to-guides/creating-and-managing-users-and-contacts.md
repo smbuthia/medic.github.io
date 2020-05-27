@@ -33,7 +33,7 @@ In this guide, you will work with the default contact forms and the default hier
 
 While logged in as an admin user, you will first create the Health Facility, CHW Supervisor, CHW Area, and CHW. You will then create the users for the CHW so that they can log in and create households and household members.
 
-### _1. Create the Health Facility, CHW Supervisor, CHW Area, and CHW_
+### 1. Create the Health Facility, CHW Supervisor, CHW Area, and CHW
 
 #### Create new Health facility
 
@@ -100,7 +100,7 @@ You should see an edit form from which you can set the primary contact of the fa
 
 ![set primary contact](images/new-chw-supervisor/set-primary-contact.png "Set primary contact")
 
-### _2. Create the CHW user_
+### 2. Create the CHW user
 
 With the CHW and CHW Supervisor contacts created, you may want to log in as a CHW and perform some actions. To do this, let's create a CHW user that's linked to the CHW contact we created earlier.
 
