@@ -1,19 +1,19 @@
-# How to set up a CHT local configuration environment
+# How to set up a CHT local environment
 
 ## Purpose of the guide
 
-This guide will take you through setting up a local environment to configure and test CHT applications. This includes setting up the necessary tools to download and run the CHT public docker image as well as a command line interface tool to manage and configure CHT apps.
+This guide will take you through setting up a local environment to build and test CHT applications. This includes setting up the necessary tools to download and run the CHT public docker image as well as a command line interface tool to manage and build CHT apps.
 
 By the end of the guide you should be able to:
 
 - View the login page to CHT webapp on localhost
-- Upload default configurations to localhost
+- Upload default settings to localhost
 
 ## Brief overview of key concepts
 
-**CHT Core Framework** The Core Framework makes it faster to build full-featured, scalable digital health apps by providing a foundation developers can build on. These apps can support most languages, are offline-first, and work on basic phones (via SMS), smartphones, tablets, and computers. 
+**CHT Core Framework** The Core Framework makes it faster to build full-featured, scalable digital health apps by providing a foundation developers can build on. These apps can support most languages, are offline-first, and work on basic phones (via SMS), smartphones, tablets, and computers.
 
-**Medic Project Configurer** aka ***medic-conf*** is command-line interface tool to manage and configure CHT apps.
+**Medic Project Configurer** a.k.a ***medic-conf*** is command-line interface tool to manage and configure CHT apps.
 
 **Docker** is a tool designed to make it easier to create, deploy, and run applications by using containers.  
 
@@ -33,9 +33,9 @@ You also require Docker for your operating system:
 
 ## Implementation steps
 
-Now that you have the dependent tools and software install, you are ready to begin setting up your CHT local configuration environment.
+Now that you have the dependent tools and software install, you are ready to begin setting up your CHT local environment.
 
-### _1. Install medic-conf_
+### 1. Install medic-conf
 
 Using npm on your terminal or command line, install medic-conf globally using the following command;
 
@@ -47,7 +47,7 @@ You can confirm that the installation was successful by typing `medic-conf` in y
 
 ![confirm medic-conf](images/local-config-environment/confirm-medic-conf.png "Confirm medic-conf")
 
-### _2. Install the Core Framework_
+### 2. Install the Core Framework
 
 Download the [docker-compose.yml](https://github.com/medic/cht-core/blob/master/docker-compose.yml) file to a folder of your choice. Be sure to place it in a folder that's easy to find on terminal or command line.
 
@@ -61,9 +61,9 @@ Once the command is done running, navigate to `https://localhost` on a Google Ch
 
 ![medic login](images/local-config-environment/medic-login.png "Medic login")
 
-### _3. Create and upload a blank project_
+### 3. Create and upload a blank project
 
-With `medic-conf` you can create a blank project. This provides you a template from which you can begin working on your configurations. Just run:
+With `medic-conf` you can create a blank project. This provides you a template from which you can begin working on CHT. Just run:
 
 ```zsh
 mkdir cht-app-tutorials
